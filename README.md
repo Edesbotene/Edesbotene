@@ -1,57 +1,55 @@
 # Olá, eu sou o Edes Botene
 
-**Desenvolvimento Web · Dados · Power BI · SQL · Automação · Experiência técnica em manutenção**
+**Soluções digitais · Desenvolvimento Web · Power BI · SQL · Automação · Gestão**
 
-Sou profissional em transição de carreira para tecnologia, com 14 anos de experiência em manutenção de equipamentos, operações técnicas e resolução de problemas no mundo real.
+Uno 14 anos de experiência em manutenção de equipamentos, operações técnicas e melhoria de processos ao desenvolvimento de soluções digitais para empresas.
 
-Hoje combino essa experiência prática com desenvolvimento web, análise de dados, dashboards e automações para criar soluções úteis para empresas.
+Crio aplicações web, dashboards, sistemas internos e automações para organizar processos, facilitar controles e transformar dados em informações úteis para a gestão.
 
 ## O que eu faço
 
-- Desenvolvimento de aplicações web para negócios
+- Desenvolvimento de aplicações web e sistemas internos
 - Criação de dashboards financeiros, operacionais e gerenciais
-- Análise de dados para apoiar decisões
-- Automação de processos e redução de tarefas manuais
-- Modelagem, organização e consulta de dados
-- Desenvolvimento de sistemas para gestão interna
-- Soluções digitais para clínicas, empresas e operações técnicas
+- Automação de controles, relatórios e tarefas manuais
+- Organização, modelagem e análise de dados
+- Construção de indicadores para apoiar decisões
+- Soluções para financeiro, vendas, estoque, manutenção e clínicas
 
-## Dados, BI e automação
+## Soluções que já desenvolvi
 
-Tenho experiência com:
+- **Mini ERP empresarial:** controle financeiro e operacional, estoque, vendas, orçamentos e indicadores de desempenho.
+- **CRM comercial:** acompanhamento de oportunidades em Kanban, etapas de negociação, responsáveis e valores por fase.
+- **Orçamentos comerciais:** geração, impressão e salvamento em PDF, com itens, condições comerciais e valores.
+- **Formação de preços industriais:** cálculo de preços considerando matéria-prima, usinagem, componentes, impostos, custos e margem.
+- **Gestão de clínicas estéticas:** agenda semanal, clientes, follow-ups, financeiro, estoque e acompanhamento da rotina.
+- **Portal de indicadores:** acesso centralizado a dashboards de operação, manutenção, custos, estoque e disponibilidade.
+- **Dashboards de manutenção em Power BI:** análises de MTBF, MTTR, disponibilidade, ordens de serviço e desempenho por equipamento.
+- **Painéis operacionais em tempo real:** acompanhamento de máquinas paradas, manutenções preventivas por horímetro e apontamentos técnicos, com dados conectados a SQL.
 
-- SQL para consultas, tratamento e análise de dados
-- Excel avançado para controles, relatórios e análises
-- Power BI avançado
-- Criação de múltiplos tipos de dashboards em Power BI
-- Indicadores de desempenho, relatórios financeiros e visões operacionais
-- Organização de bases de dados e transformação de informações em insights
+Os exemplos apresentados no meu portfólio utilizam imagens anonimizadas, preservando a identidade e os dados dos clientes.
 
-## Tecnologias e ferramentas
+## Tecnologias e conhecimentos
 
-- **Desenvolvimento:** Next.js, TypeScript, Tailwind CSS, Firebase
-- **Dados:** SQL, Excel Avançado, Power BI
-- **BI:** Dashboards financeiros, operacionais e gerenciais
+- **Desenvolvimento web:** Next.js, TypeScript, Tailwind CSS e Firebase
+- **Dados e BI:** SQL, Power BI avançado e Excel avançado
+- **Indicadores:** KPIs financeiros, operacionais, comerciais e de manutenção
+- **Gestão:** custos, formação de preços, estoque, produtividade e controle operacional
 - **Automação:** processos internos, relatórios e organização de dados
 - **Versionamento:** Git e GitHub
 
-Tenho focado em criar sistemas modernos, simples de usar e conectados às necessidades reais de gestão, operação e análise.
+## Meu diferencial
 
-## Experiência técnica
+Conheço de perto os desafios de quem precisa manter uma operação funcionando, controlar custos e tomar decisões com informações dispersas.
 
-Antes de migrar para tecnologia, construí uma base sólida com 14 anos de experiência em manutenção de equipamentos.
+Essa experiência me ajuda a entender o problema, mapear processos e desenvolver ferramentas claras e aplicáveis à rotina das empresas. Meu foco é construir soluções úteis para quem as utiliza todos os dias.
 
-Essa trajetória me deu uma visão prática sobre processos, falhas, produtividade, indicadores, controle operacional e melhoria contínua — conhecimentos que hoje aplico no desenvolvimento de soluções digitais.
+## Como trabalho
 
-## Projetos em destaque
-
-- **NXT Parts** — aplicativo para gestão de peças, clientes, vendas e relatórios financeiros.
-- **App Clínica Micheli Filippi** — solução digital para clínica, presença online e organização de informações.
-
-## Em evolução
-
-Estou expandindo meu portfólio de projetos públicos e aprofundando meus conhecimentos em desenvolvimento web, análise de dados, BI, automação e produto digital.
+Entendo o cenário e os objetivos da empresa, avalio a viabilidade e apresento uma proposta. A partir daí, mapeio processos e dados, valido a solução, desenvolvo, testo e realizo a entrega com orientação de uso.
 
 ## Contato
 
-LinkedIn: [www.linkedin.com/in/edes-botene-64679b1aa](http://www.linkedin.com/in/edes-botene-64679b1aa)
+Vamos conversar sobre os processos e controles que sua empresa precisa melhorar?
+
+- **Portfólio:** [edesbotene.github.io](https://edesbotene.github.io/)
+- **LinkedIn:** [Edes Botene](https://www.linkedin.com/in/edes-botene-64679b1aa)
