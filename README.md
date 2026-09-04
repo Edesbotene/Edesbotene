@@ -1,20 +1,43 @@
 # Olá, eu sou o Edes Botene
 
-Desenvolvedor focado em criar aplicações web, dashboards e automações para negócios.
+Sou profissional em transição de carreira para tecnologia, com 14 anos de experiência em manutenção de equipamentos, operações técnicas e resolução de problemas no mundo real.
 
-Gosto de transformar ideias em sistemas úteis: apps para gestão, relatórios financeiros, ferramentas internas, integrações e soluções que ajudam empresas a trabalhar melhor.
+Hoje combino essa experiência prática com desenvolvimento web, análise de dados, dashboards e automações para criar soluções úteis para empresas.
 
-## O que estou construindo
+## O que eu faço
 
-- Apps web modernos para negócios
-- Dashboards financeiros e operacionais
-- Sistemas de gestão para empresas e clínicas
-- Automações para reduzir tarefas manuais
-- Integrações com banco de dados e serviços externos
+- Desenvolvimento de aplicações web para negócios
+- Criação de dashboards financeiros, operacionais e gerenciais
+- Análise de dados para apoiar decisões
+- Automação de processos e redução de tarefas manuais
+- Modelagem, organização e consulta de dados
+- Desenvolvimento de sistemas para gestão interna
+- Soluções digitais para clínicas, empresas e operações técnicas
 
-## Tecnologias que uso
+## Dados, BI e automação
 
-Next.js · TypeScript · Firebase · Tailwind CSS · GitHub · Automação
+Tenho experiência com:
+
+- SQL para consultas, tratamento e análise de dados
+- Excel avançado para controles, relatórios e análises
+- Power BI avançado
+- Criação de múltiplos tipos de dashboards em Power BI
+- Indicadores de desempenho, relatórios financeiros e visões operacionais
+- Organização de bases de dados e transformação de informações em insights
+
+## Desenvolvimento web
+
+Atualmente construo aplicações usando:
+
+Next.js · TypeScript · Firebase · Tailwind CSS · GitHub
+
+Tenho focado em criar sistemas modernos, simples de usar e conectados às necessidades reais de gestão, operação e análise.
+
+## Experiência técnica
+
+Antes de migrar para tecnologia, construí uma base sólida com 14 anos de experiência em manutenção de equipamentos.
+
+Essa trajetória me deu uma visão prática sobre processos, falhas, produtividade, indicadores, controle operacional e melhoria contínua — conhecimentos que hoje aplico no desenvolvimento de soluções digitais.
 
 ## Projetos em destaque
 
@@ -23,9 +46,8 @@ Next.js · TypeScript · Firebase · Tailwind CSS · GitHub · Automação
 
 ## Em evolução
 
-Estou construindo meu portfólio de projetos públicos e aprimorando minhas habilidades em desenvolvimento web, produto digital e automação.
+Estou expandindo meu portfólio de projetos públicos e aprofundando meus conhecimentos em desenvolvimento web, análise de dados, BI, automação e produto digital.
 
 ## Contato
 
-LinkedIn: coloque seu link aqui  
-Portfólio: coloque seu link aqui
+LinkedIn: [www.linkedin.com/in/edes-botene-64679b1aa](http://www.linkedin.com/in/edes-botene-64679b1aa)
