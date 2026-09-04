@@ -1,5 +1,7 @@
 # Olá, eu sou o Edes Botene
 
+**Desenvolvimento Web · Dados · Power BI · SQL · Automação · Experiência técnica em manutenção**
+
 Sou profissional em transição de carreira para tecnologia, com 14 anos de experiência em manutenção de equipamentos, operações técnicas e resolução de problemas no mundo real.
 
 Hoje combino essa experiência prática com desenvolvimento web, análise de dados, dashboards e automações para criar soluções úteis para empresas.
@@ -25,11 +27,13 @@ Tenho experiência com:
 - Indicadores de desempenho, relatórios financeiros e visões operacionais
 - Organização de bases de dados e transformação de informações em insights
 
-## Desenvolvimento web
+## Tecnologias e ferramentas
 
-Atualmente construo aplicações usando:
-
-Next.js · TypeScript · Firebase · Tailwind CSS · GitHub
+- **Desenvolvimento:** Next.js, TypeScript, Tailwind CSS, Firebase
+- **Dados:** SQL, Excel Avançado, Power BI
+- **BI:** Dashboards financeiros, operacionais e gerenciais
+- **Automação:** processos internos, relatórios e organização de dados
+- **Versionamento:** Git e GitHub
 
 Tenho focado em criar sistemas modernos, simples de usar e conectados às necessidades reais de gestão, operação e análise.
 
