@@ -2,7 +2,7 @@
 
 **Soluções digitais · Desenvolvimento Web · Power BI · SQL · Automação · Gestão**
 
-Uno 14 anos de experiência em manutenção de equipamentos, operações técnicas e melhoria de processos ao desenvolvimento de soluções digitais para empresas.
+Tenho 14 anos de experiência em manutenção de equipamentos, operações técnicas e melhoria de processos ao desenvolvimento de soluções digitais para empresas.
 
 Crio aplicações web, dashboards, sistemas internos e automações para organizar processos, facilitar controles e transformar dados em informações úteis para a gestão.
 
